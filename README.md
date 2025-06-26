@@ -50,8 +50,8 @@ The Traitors Game is a real-time multiplayer experience where players must use s
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd Traitors
+   git clone https://github.com/Shashwat1729/Traitors-Game.git
+   cd Traitors-Game
    ```
 
 2. **Install dependencies**
@@ -161,7 +161,6 @@ The game is fully responsive and optimized for:
 - [ ] Statistics tracking
 - [ ] Achievement system
 - [ ] Tournament mode
-- [ ] Mobile app version
 - [ ] Voice chat integration
 - [ ] Custom avatars and themes
 - [ ] Spectator mode
@@ -173,10 +172,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📞 Support
-
-If you encounter any issues or have questions, please open an issue on GitHub.
 
 ---
 
